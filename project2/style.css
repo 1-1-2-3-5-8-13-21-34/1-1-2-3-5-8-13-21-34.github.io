@@ -1,0 +1,28 @@
+ body {
+background-color:#EF2B2D;
+}
+h1 {
+ color:#FDD116;
+font-size:50px;
+}
+.img-center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+border:12px ridge#009E49;
+}
+.center {
+text-align:center;
+}
+p {
+font-size:21px;
+font-style:garamond;
+color:#009E49;
+border-width:5px;
+border-style:dashed solid;
+border-color:#FDD116;
+}
+#important {
+    font-weight:bolder;
+    font-style:italic;
+}
